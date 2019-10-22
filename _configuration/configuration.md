@@ -1797,7 +1797,7 @@ Option|Description
 `REPRAP_DISCOUNT_SMART_CONTROLLER`|[RepRapDiscount Smart Controller](http://reprap.org/wiki/RepRapDiscount_Smart_Controller). Usually sold with a white PCB.
 `G3D_PANEL`|[Gadgets3D G3D LCD/SD Controller](http://reprap.org/wiki/RAMPS_1.3/1.4_GADGETS3D_Shield_with_Panel). Usually sold with a blue PCB.
 `RIGIDBOT_PANEL`|[RigidBot Panel V1.0](http://www.inventapart.com/).
-`ANET_KEYPAD_LCD`|[Anet Keypad LCD](http://www.anet3d.com/prod_view.aspx?TypeId=10&Id=178) for the Anet A3
+`ANET_KEYPAD_LCD`|[Anet Keypad LCD](https://web.archive.org/web/20190221232229/http://www.anet3d.com/prod_view.aspx?TypeId=10&Id=178) for the Anet A3
 
 ### Graphical LCDs
 
